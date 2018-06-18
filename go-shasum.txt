@@ -1,0 +1,1 @@
+5cfe8c29044f92459818a034251cb5a42b3cd9487fc78dc9dd1e0f41a25afd2d  go1.10.1.linux-amd64.tar.gz
